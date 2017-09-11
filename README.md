@@ -1,5 +1,5 @@
 # Linear-and-bilinear-interpolation-in-Excel
-VBA code of worksheet functions for linear and bilinear interpolation based on the signature of `interp1` and `interp2` in MATLAB
+VBA code of worksheet functions for linear and bilinear interpolation based on the signature of [`interp1`](http://uk.mathworks.com/help/matlab/ref/interp1.html) and [`interp2`](http://uk.mathworks.com/help/matlab/ref/interp2.html) in MATLAB
 
 ### Linear Interpolation
 Example of using the `interp1` function:
