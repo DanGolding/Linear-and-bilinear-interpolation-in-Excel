@@ -17,4 +17,4 @@ Example of using the `interp2` function:
   <img src="/Images/bilinear_interpolation_example.png" />
 </p>
 
-note for `inrerp2`, the first arguemnt, `xAxis`, must be a _horizontal_ range, and the second argument, `yAxis`, must be a _vertical_ range.
+note for `inrerp2`, the first arguemnt, `xAxis`, must be a _vertical_ range, and the second argument, `yAxis`, must be a _horizontal_ range.
